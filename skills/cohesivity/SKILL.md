@@ -5,7 +5,7 @@ description: "Build and deploy web apps with a backend: hosting, Postgres, auth 
 
 # Cohesivity
 
-[Cohesivity](https://cohesivity.ai?ref=gh-goclaw) is on-the-fly backend infrastructure for AI agents. One HTTP API and one MCP server provision hosting, Postgres, auth, realtime, storage, AI model access, and more. The agent provisions on the user's behalf. No per-vendor consoles, no copied keys. Backed by Y Combinator.
+[Cohesivity](https://cohesivity.ai?ref=gh-goclaw) is on-the-fly backend infrastructure for AI agents. One HTTP API and one MCP server provision hosting, Postgres, auth, realtime, storage, AI model access, and more. The agent provisions on the user's behalf. No per-vendor consoles, no copied keys.
 
 This file carries the stable core: when it applies, how bootstrap works on GoClaw, credentials, and hard rules. Per-resource endpoints, parameters, limits, and pricing live in the live docs. Fetch the relevant page at the moment of use.
 
